@@ -1,0 +1,83 @@
+{
+  "title": "Sloppy Joe Recipe",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "fbe8b5d359f25484",
+      "text": "[https://www.tasteofhome.com/recipes/sloppy-joes-sandwiches recipe]"
+    },
+    {
+      "type": "paragraph",
+      "id": "6c4997c431bf980f",
+      "text": "[https://www.tasteofhome.com/recipes/sensational-sloppy-joes recipe 2]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Sloppy Joe Recipe",
+        "story": []
+      },
+      "date": 1508229444034
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4e801222956244b1"
+      },
+      "id": "4e801222956244b1",
+      "type": "add",
+      "date": 1508229904707
+    },
+    {
+      "type": "remove",
+      "id": "4e801222956244b1",
+      "date": 1508229919129
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fbe8b5d359f25484"
+      },
+      "id": "fbe8b5d359f25484",
+      "type": "add",
+      "date": 1508229949273
+    },
+    {
+      "type": "edit",
+      "id": "fbe8b5d359f25484",
+      "item": {
+        "type": "paragraph",
+        "id": "fbe8b5d359f25484",
+        "text": "[https://www.tasteofhome.com/recipes/sloppy-joes-sandwiches recipe]"
+      },
+      "date": 1508229977158
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6c4997c431bf980f"
+      },
+      "id": "6c4997c431bf980f",
+      "type": "add",
+      "after": "fbe8b5d359f25484",
+      "date": 1508230051217
+    },
+    {
+      "type": "edit",
+      "id": "6c4997c431bf980f",
+      "item": {
+        "type": "paragraph",
+        "id": "6c4997c431bf980f",
+        "text": "[https://www.tasteofhome.com/recipes/sensational-sloppy-joes recipe 2]"
+      },
+      "date": 1508230072674
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508230220877
+    }
+  ]
+}
