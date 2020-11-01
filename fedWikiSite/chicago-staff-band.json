@@ -1,0 +1,39 @@
+{
+  "title": "Chicago Staff Band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "92e8332159494abe",
+      "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Chicago Staff Band",
+        "story": []
+      },
+      "date": 1508228460059
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "92e8332159494abe"
+      },
+      "id": "92e8332159494abe",
+      "type": "add",
+      "date": 1513882109313
+    },
+    {
+      "type": "edit",
+      "id": "92e8332159494abe",
+      "item": {
+        "type": "paragraph",
+        "id": "92e8332159494abe",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "date": 1513882115045
+    }
+  ]
+}

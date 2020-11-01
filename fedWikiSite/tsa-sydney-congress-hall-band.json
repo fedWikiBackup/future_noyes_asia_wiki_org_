@@ -1,0 +1,88 @@
+{
+  "title": "TSA Sydney Congress Hall Band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "31df884b1644a2bd",
+      "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "TSA Sydney Congress Hall Band",
+        "story": []
+      },
+      "date": 1507909716869
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e68429b38daff14d"
+      },
+      "id": "e68429b38daff14d",
+      "type": "add",
+      "date": 1507909718980
+    },
+    {
+      "type": "edit",
+      "id": "e68429b38daff14d",
+      "item": {
+        "type": "video",
+        "id": "e68429b38daff14d",
+        "text": "YOUTUBE c6ErukENOro\n"
+      },
+      "date": 1507909747525
+    },
+    {
+      "type": "edit",
+      "id": "e68429b38daff14d",
+      "item": {
+        "type": "video",
+        "id": "e68429b38daff14d",
+        "text": "YOUTUBE c6ErukENOro\nSydney Congress Hall Band 1991\n"
+      },
+      "date": 1507909793491
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228476399
+    },
+    {
+      "type": "edit",
+      "id": "e68429b38daff14d",
+      "item": {
+        "type": "video",
+        "id": "e68429b38daff14d",
+        "text": "\n"
+      },
+      "date": 1513882145599
+    },
+    {
+      "type": "remove",
+      "id": "e68429b38daff14d",
+      "date": 1513882153440
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "31df884b1644a2bd"
+      },
+      "id": "31df884b1644a2bd",
+      "type": "add",
+      "date": 1513882155692
+    },
+    {
+      "type": "edit",
+      "id": "31df884b1644a2bd",
+      "item": {
+        "type": "paragraph",
+        "id": "31df884b1644a2bd",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "date": 1513882163430
+    }
+  ]
+}

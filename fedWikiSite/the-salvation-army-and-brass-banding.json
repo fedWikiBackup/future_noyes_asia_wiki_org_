@@ -1,0 +1,134 @@
+{
+  "title": "the-salvation-army-and-brass-banding",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b00282cf477cc800",
+      "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "the-salvation-army-and-brass-banding",
+        "story": []
+      },
+      "date": 1508051101682
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ab77b64ed50cd573",
+        "text": "[[Melbourne Staff Band]]"
+      },
+      "id": "ab77b64ed50cd573",
+      "date": 1508051115027
+    },
+    {
+      "type": "add",
+      "id": "3f493487d95277e8",
+      "item": {
+        "type": "paragraph",
+        "id": "3f493487d95277e8",
+        "text": "[[Chicago Staff Band]]"
+      },
+      "after": "ab77b64ed50cd573",
+      "date": 1508051144080
+    },
+    {
+      "type": "add",
+      "id": "a93140bb659be9b6",
+      "item": {
+        "type": "paragraph",
+        "id": "a93140bb659be9b6",
+        "text": "[[New York Staff Band]]"
+      },
+      "after": "3f493487d95277e8",
+      "date": 1508051165043
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "34b75a5f7de1967f",
+        "text": "[[TSA Sydney Congress Hall Band]]"
+      },
+      "after": "a93140bb659be9b6",
+      "id": "34b75a5f7de1967f",
+      "date": 1508051192312
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "8f08c1c690fde138",
+        "text": "[[TSA Red Shield Band March - Black Dyke Band]]"
+      },
+      "after": "34b75a5f7de1967f",
+      "id": "8f08c1c690fde138",
+      "date": 1508051208230
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b00282cf477cc800"
+      },
+      "id": "b00282cf477cc800",
+      "type": "add",
+      "after": "8f08c1c690fde138",
+      "date": 1508051223025
+    },
+    {
+      "type": "edit",
+      "id": "b00282cf477cc800",
+      "item": {
+        "type": "paragraph",
+        "id": "b00282cf477cc800",
+        "text": "[[International Staff Band]]"
+      },
+      "date": 1508051246448
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228442497
+    },
+    {
+      "type": "edit",
+      "id": "b00282cf477cc800",
+      "item": {
+        "type": "paragraph",
+        "id": "b00282cf477cc800",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "date": 1513882239221
+    },
+    {
+      "type": "remove",
+      "id": "8f08c1c690fde138",
+      "date": 1513882243953
+    },
+    {
+      "type": "remove",
+      "id": "34b75a5f7de1967f",
+      "date": 1513882250946
+    },
+    {
+      "type": "remove",
+      "id": "a93140bb659be9b6",
+      "date": 1513882257190
+    },
+    {
+      "type": "remove",
+      "id": "3f493487d95277e8",
+      "date": 1513882262409
+    },
+    {
+      "type": "remove",
+      "id": "ab77b64ed50cd573",
+      "date": 1513882267019
+    }
+  ]
+}

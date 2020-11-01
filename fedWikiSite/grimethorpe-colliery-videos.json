@@ -1,0 +1,133 @@
+{
+  "title": "Grimethorpe Colliery Videos",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "6062ba6e9efbf4bd",
+      "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Grimethorpe Colliery Videos",
+        "story": []
+      },
+      "date": 1505912726024
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "84583e5e34e063e4"
+      },
+      "id": "84583e5e34e063e4",
+      "type": "add",
+      "date": 1505912727675
+    },
+    {
+      "type": "edit",
+      "id": "84583e5e34e063e4",
+      "item": {
+        "type": "video",
+        "id": "84583e5e34e063e4",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park"
+      },
+      "date": 1505912762909
+    },
+    {
+      "type": "edit",
+      "id": "84583e5e34e063e4",
+      "item": {
+        "type": "video",
+        "id": "84583e5e34e063e4",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park\nBrass In Concert 2008 at The Sage, Gateshead Grimethorpe Colliery Band full DVD available from www.worldofbrass.com"
+      },
+      "date": 1505912822369
+    },
+    {
+      "type": "edit",
+      "id": "84583e5e34e063e4",
+      "item": {
+        "type": "video",
+        "id": "84583e5e34e063e4",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park\nBrass In Concert 2008 at The Sage, Gateshead Grimethorpe Colliery Band DVD -- www.worldofbrass.com"
+      },
+      "date": 1505912881463
+    },
+    {
+      "type": "fork",
+      "site": "brassbands.noyes.asia.wiki.org",
+      "date": 1506390024226
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228645384
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c00e77fd9808c809"
+      },
+      "id": "c00e77fd9808c809",
+      "type": "add",
+      "after": "84583e5e34e063e4",
+      "date": 1508910935879
+    },
+    {
+      "type": "edit",
+      "id": "c00e77fd9808c809",
+      "item": {
+        "type": "paragraph",
+        "id": "c00e77fd9808c809",
+        "text": "Page with some videos of this band as well as additional [[Video URLs]]"
+      },
+      "date": 1508911057924
+    },
+    {
+      "type": "move",
+      "order": [
+        "c00e77fd9808c809",
+        "84583e5e34e063e4"
+      ],
+      "id": "c00e77fd9808c809",
+      "date": 1508911067409
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6062ba6e9efbf4bd",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "id": "6062ba6e9efbf4bd",
+      "type": "add",
+      "after": "84583e5e34e063e4",
+      "date": 1513881665456
+    },
+    {
+      "type": "edit",
+      "id": "6062ba6e9efbf4bd",
+      "item": {
+        "type": "paragraph",
+        "id": "6062ba6e9efbf4bd",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "date": 1513881672396
+    },
+    {
+      "type": "remove",
+      "id": "c00e77fd9808c809",
+      "date": 1513881699353
+    },
+    {
+      "type": "remove",
+      "id": "84583e5e34e063e4",
+      "date": 1513881736416
+    },
+    {
+      "type": "fork",
+      "date": 1513881804591
+    }
+  ]
+}

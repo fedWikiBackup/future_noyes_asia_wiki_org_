@@ -1,0 +1,169 @@
+{
+  "title": "Recent Changes Template",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "435d07cf9bf34a70",
+      "text": "Here we list pages in our neighborhood for the last 30 days, with those most recently changed listed first."
+    },
+    {
+      "type": "roster",
+      "id": "ae5c630fe238400a",
+      "text": "site\nfuture.noyes.asia.wiki.org"
+    },
+    {
+      "type": "activity",
+      "id": "e9e9f102158e1382",
+      "text": "ROSTER site\nSINCE 30 days\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Recent Changes Template",
+        "story": []
+      },
+      "date": 1464373347815
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "435d07cf9bf34a70",
+        "text": "Here we list pages in our neighborhood with those most recently changed listed first."
+      },
+      "id": "435d07cf9bf34a70",
+      "date": 1464373351029
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382"
+      },
+      "id": "e9e9f102158e1382",
+      "date": 1464373355338
+    },
+    {
+      "type": "move",
+      "order": [
+        "435d07cf9bf34a70",
+        "e9e9f102158e1382"
+      ],
+      "id": "435d07cf9bf34a70",
+      "date": 1464373357809
+    },
+    {
+      "type": "edit",
+      "id": "435d07cf9bf34a70",
+      "item": {
+        "type": "paragraph",
+        "id": "435d07cf9bf34a70",
+        "text": "Here we list pages in our neighborhood for the last 30 days, with those most recently changed listed first."
+      },
+      "date": 1464373393978
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "SINCE 30 days"
+      },
+      "date": 1464373418735
+    },
+    {
+      "type": "fork",
+      "site": "sites.don.noyes.asia.wiki.org",
+      "date": 1480481906544
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "SINCE 30 days\nMINE exclude"
+      },
+      "date": 1480481930174
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508229693162
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ae5c630fe238400a"
+      },
+      "id": "ae5c630fe238400a",
+      "type": "add",
+      "after": "e9e9f102158e1382",
+      "date": 1508229723010
+    },
+    {
+      "type": "edit",
+      "id": "ae5c630fe238400a",
+      "item": {
+        "type": "roster",
+        "id": "ae5c630fe238400a",
+        "text": "site\nfuture.noyes.asia.wiki.org"
+      },
+      "date": 1508229746170
+    },
+    {
+      "type": "remove",
+      "id": "ae5c630fe238400a",
+      "date": 1508229753407
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER site\nSINCE 30 days\n"
+      },
+      "date": 1508229792227
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "ae5c630fe238400a",
+        "text": "site\nfuture.noyes.asia.wiki.org"
+      },
+      "after": "e9e9f102158e1382",
+      "id": "ae5c630fe238400a",
+      "date": 1508229800194
+    },
+    {
+      "type": "remove",
+      "id": "ae5c630fe238400a",
+      "date": 1508229811660
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "ae5c630fe238400a",
+        "text": "site\nfuture.noyes.asia.wiki.org"
+      },
+      "id": "ae5c630fe238400a",
+      "date": 1508229824022
+    },
+    {
+      "type": "move",
+      "order": [
+        "435d07cf9bf34a70",
+        "ae5c630fe238400a",
+        "e9e9f102158e1382"
+      ],
+      "id": "435d07cf9bf34a70",
+      "date": 1508229826710
+    }
+  ]
+}

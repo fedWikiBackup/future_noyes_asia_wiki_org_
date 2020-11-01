@@ -1,0 +1,89 @@
+{
+  "title": "Melbourne Staff Band",
+  "story": [
+    {
+      "type": "html",
+      "id": "b11aa1d1c179d732",
+      "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Melbourne Staff Band",
+        "story": []
+      },
+      "date": 1508050967383
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "84fa379bee70b550",
+        "text": "[[Melbourne Staff Band 125 Years]]"
+      },
+      "id": "84fa379bee70b550",
+      "date": 1508050974267
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b11aa1d1c179d732"
+      },
+      "id": "b11aa1d1c179d732",
+      "type": "add",
+      "after": "84fa379bee70b550",
+      "date": 1508050980924
+    },
+    {
+      "type": "edit",
+      "id": "b11aa1d1c179d732",
+      "item": {
+        "type": "paragraph",
+        "id": "b11aa1d1c179d732",
+        "text": "<b>Videos</b>"
+      },
+      "date": 1508051001336
+    },
+    {
+      "type": "edit",
+      "id": "b11aa1d1c179d732",
+      "item": {
+        "type": "html",
+        "id": "b11aa1d1c179d732",
+        "text": "<b>Videos</b>"
+      },
+      "date": 1508051005035
+    },
+    {
+      "type": "move",
+      "order": [
+        "b11aa1d1c179d732",
+        "84fa379bee70b550"
+      ],
+      "id": "b11aa1d1c179d732",
+      "date": 1508051009172
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228448724
+    },
+    {
+      "type": "remove",
+      "id": "84fa379bee70b550",
+      "date": 1513882091721
+    },
+    {
+      "type": "edit",
+      "id": "b11aa1d1c179d732",
+      "item": {
+        "type": "html",
+        "id": "b11aa1d1c179d732",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "date": 1513882102630
+    }
+  ]
+}

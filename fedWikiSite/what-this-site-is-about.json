@@ -1,0 +1,247 @@
+{
+  "title": "What this site is about",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "821827c99b90cfd1",
+      "text": "[[About Notions]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "63ad2e58eecdd9e5",
+      "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+      "text": "-- [[About aggregation of pages]] using [[Localhosting]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4ffc2206907c157e",
+      "text": "[[About Sharing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e3c6848d03c7c83a",
+      "text": "[[About Sites]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4cb057ba7a5ef983",
+      "text": "-- [[About Sitepages]] - a single page about pages in a single site"
+    },
+    {
+      "type": "paragraph",
+      "id": "e040b26c977d0ea8",
+      "text": "-- [[About Sites Linked]]"
+    },
+    {
+      "type": "html",
+      "id": "42535355da4443e7",
+      "text": "<hr>"
+    },
+    {
+      "type": "paragraph",
+      "id": "2bbd646ff3f44b51",
+      "text": "[[Examples of Federated Wiki Use]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "What this site is about",
+        "story": []
+      },
+      "date": 1508206664996
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[About Notions]]"
+      },
+      "id": "821827c99b90cfd1",
+      "date": 1508206671234
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4ffc2206907c157e",
+        "text": "[[About Sharing]]"
+      },
+      "after": "821827c99b90cfd1",
+      "id": "4ffc2206907c157e",
+      "date": 1508206676583
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e3c6848d03c7c83a",
+        "text": "[[About Sites]]"
+      },
+      "after": "4ffc2206907c157e",
+      "id": "e3c6848d03c7c83a",
+      "date": 1508206680935
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e040b26c977d0ea8",
+        "text": "[[About Sites Linked]]"
+      },
+      "after": "e3c6848d03c7c83a",
+      "id": "e040b26c977d0ea8",
+      "date": 1508206695370
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "4cb057ba7a5ef983",
+        "text": "[[About Sitepages]] as a single page about pages in a single site'"
+      },
+      "after": "e3c6848d03c7c83a",
+      "id": "4cb057ba7a5ef983",
+      "date": 1508206714285
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "[[About aggregation of pages using [[Localhosting]]"
+      },
+      "after": "e040b26c977d0ea8",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1508206720996
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "[[Examples of Federated Wiki Use]]"
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1508910576897
+    },
+    {
+      "type": "add",
+      "id": "42535355da4443e7",
+      "item": {
+        "type": "paragraph",
+        "id": "42535355da4443e7",
+        "text": "<hr>"
+      },
+      "after": "63ad2e58eecdd9e5",
+      "date": 1508910591284
+    },
+    {
+      "type": "edit",
+      "id": "42535355da4443e7",
+      "item": {
+        "type": "html",
+        "id": "42535355da4443e7",
+        "text": "<hr>"
+      },
+      "date": 1508910597640
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "[[About aggregation of pages using [[Localhosting]]]"
+      },
+      "date": 1508910618578
+    },
+    {
+      "type": "edit",
+      "id": "e040b26c977d0ea8",
+      "item": {
+        "type": "paragraph",
+        "id": "e040b26c977d0ea8",
+        "text": "-- [[About Sites Linked]]"
+      },
+      "date": 1508910638460
+    },
+    {
+      "type": "edit",
+      "id": "4cb057ba7a5ef983",
+      "item": {
+        "type": "paragraph",
+        "id": "4cb057ba7a5ef983",
+        "text": "-- [[About Sitepages]] as a single page about pages in a single site'"
+      },
+      "date": 1508910645494
+    },
+    {
+      "type": "edit",
+      "id": "4cb057ba7a5ef983",
+      "item": {
+        "type": "paragraph",
+        "id": "4cb057ba7a5ef983",
+        "text": "-- [[About Sitepages]] - a single page about pages in a single site"
+      },
+      "date": 1508910729188
+    },
+    {
+      "type": "move",
+      "order": [
+        "821827c99b90cfd1",
+        "4ffc2206907c157e",
+        "63ad2e58eecdd9e5",
+        "e3c6848d03c7c83a",
+        "4cb057ba7a5ef983",
+        "e040b26c977d0ea8",
+        "42535355da4443e7",
+        "2bbd646ff3f44b51"
+      ],
+      "id": "63ad2e58eecdd9e5",
+      "date": 1508910745248
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "-- [[About aggregation of pages using [[Localhosting]]"
+      },
+      "date": 1508910774966
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "-- [[About aggregation of pages]] using [[Localhosting]]"
+      },
+      "date": 1508910788684
+    },
+    {
+      "type": "move",
+      "order": [
+        "821827c99b90cfd1",
+        "63ad2e58eecdd9e5",
+        "4ffc2206907c157e",
+        "e3c6848d03c7c83a",
+        "4cb057ba7a5ef983",
+        "e040b26c977d0ea8",
+        "42535355da4443e7",
+        "2bbd646ff3f44b51"
+      ],
+      "id": "63ad2e58eecdd9e5",
+      "date": 1508910803842
+    }
+  ]
+}

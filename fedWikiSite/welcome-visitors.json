@@ -1,0 +1,273 @@
+{
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "text": "Welcome to this [[Federated Wiki]] site. This site reflects notions by [[Donald Noyes]] about use of the [[Federated Wiki]] by and for [[ordinary users]] who see the possibilities of using the Federated Idea in the [[Smallest Federated Wiki]] to create pages and structures for all kinds of [[personally edited purposes]]",
+      "id": "7b56f22a4b9ee974",
+      "type": "paragraph"
+    },
+    {
+      "type": "paragraph",
+      "id": "35cda92fa1314aea",
+      "text": "[[What this site is about]]"
+    },
+    {
+      "type": "factory",
+      "id": "05e2fa92643677ca",
+      "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+    },
+    {
+      "type": "paragraph",
+      "id": "ee416d431ebf4fb4",
+      "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Welcome Visitors",
+        "story": []
+      },
+      "date": 1420938191608
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate.",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "id": "7b56f22a4b9ee974",
+      "date": 1420938199166
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "Pages about us."
+      },
+      "after": "7b56f22a4b9ee974",
+      "id": "821827c99b90cfd1",
+      "date": 1420938202921
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below."
+      },
+      "after": "821827c99b90cfd1",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1420938208737
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "Pages where we do and share."
+      },
+      "after": "63ad2e58eecdd9e5",
+      "id": "2bbd646ff3f44b51",
+      "date": 1420938212624
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "factory",
+        "id": "05e2fa92643677ca",
+        "prompt": "Create pages about things you do on this wiki. Type a descriptive name of something you will be writing about. Enclose it in square brackets. Then press Command/ALT-S to save."
+      },
+      "after": "2bbd646ff3f44b51",
+      "id": "05e2fa92643677ca",
+      "date": 1420938216782
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ee416d431ebf4fb4",
+        "text": "You can edit your copy of these pages. Press [+] to add more writing spaces. Read [[How to Wiki]] for more ideas. Follow [[Recent Changes]] here and nearby."
+      },
+      "after": "05e2fa92643677ca",
+      "id": "ee416d431ebf4fb4",
+      "date": 1420938220851
+    },
+    {
+      "type": "edit",
+      "id": "7b56f22a4b9ee974",
+      "item": {
+        "text": "Welcome to this [[Federated Wiki]] site. This site reflects notions by [[Donald Noyes]] about use of the [[Federated Wiki]] by and for [[ordinary users]] who see the possibilities of using the Federated Idea in the [[Smallest Federated Wiki]] to create pages and structures for all kinds of [[personally edited purposes]]",
+        "id": "7b56f22a4b9ee974",
+        "type": "paragraph"
+      },
+      "date": 1508206311174
+    },
+    {
+      "type": "edit",
+      "id": "821827c99b90cfd1",
+      "item": {
+        "type": "paragraph",
+        "id": "821827c99b90cfd1",
+        "text": "[[About Notions]]"
+      },
+      "date": 1508206370521
+    },
+    {
+      "type": "add",
+      "id": "4ffc2206907c157e",
+      "item": {
+        "type": "paragraph",
+        "id": "4ffc2206907c157e",
+        "text": "[[About Sharing]]"
+      },
+      "after": "821827c99b90cfd1",
+      "date": 1508206395928
+    },
+    {
+      "type": "add",
+      "id": "e040b26c977d0ea8",
+      "item": {
+        "type": "paragraph",
+        "id": "e040b26c977d0ea8",
+        "text": "[[About Sites Linked]]"
+      },
+      "after": "4ffc2206907c157e",
+      "date": 1508206418761
+    },
+    {
+      "type": "add",
+      "id": "4cb057ba7a5ef983",
+      "item": {
+        "type": "paragraph",
+        "id": "4cb057ba7a5ef983",
+        "text": "[[About Sitepages]] as indexes of pages in a single site"
+      },
+      "after": "e040b26c977d0ea8",
+      "date": 1508206481331
+    },
+    {
+      "type": "add",
+      "id": "e3c6848d03c7c83a",
+      "item": {
+        "type": "paragraph",
+        "id": "e3c6848d03c7c83a",
+        "text": "[[About Sites]]"
+      },
+      "after": "4cb057ba7a5ef983",
+      "date": 1508206494239
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "821827c99b90cfd1",
+        "4ffc2206907c157e",
+        "e3c6848d03c7c83a",
+        "e040b26c977d0ea8",
+        "4cb057ba7a5ef983",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "e3c6848d03c7c83a",
+      "date": 1508206502987
+    },
+    {
+      "type": "edit",
+      "id": "4cb057ba7a5ef983",
+      "item": {
+        "type": "paragraph",
+        "id": "4cb057ba7a5ef983",
+        "text": "[[About Sitepages]] as a single page about pages in a single site'"
+      },
+      "date": 1508206540680
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "prompt": "Link to a page about yourself here. Type your name enclosed in double square brackets. Then press Command/ALT-S to save.\n\nMake all pages here yours alone with the login below.",
+        "text": "[[About aggregation of pages using [[Localhosting]]"
+      },
+      "date": 1508206619613
+    },
+    {
+      "type": "add",
+      "id": "35cda92fa1314aea",
+      "item": {
+        "type": "paragraph",
+        "id": "35cda92fa1314aea",
+        "text": "[[What this site is about]]"
+      },
+      "after": "821827c99b90cfd1",
+      "date": 1508206654112
+    },
+    {
+      "type": "remove",
+      "id": "821827c99b90cfd1",
+      "date": 1508206671230
+    },
+    {
+      "type": "remove",
+      "id": "4ffc2206907c157e",
+      "date": 1508206676578
+    },
+    {
+      "type": "remove",
+      "id": "e3c6848d03c7c83a",
+      "date": 1508206680932
+    },
+    {
+      "type": "move",
+      "order": [
+        "7b56f22a4b9ee974",
+        "e040b26c977d0ea8",
+        "35cda92fa1314aea",
+        "4cb057ba7a5ef983",
+        "63ad2e58eecdd9e5",
+        "2bbd646ff3f44b51",
+        "05e2fa92643677ca",
+        "ee416d431ebf4fb4"
+      ],
+      "id": "e040b26c977d0ea8",
+      "date": 1508206688266
+    },
+    {
+      "type": "remove",
+      "id": "e040b26c977d0ea8",
+      "date": 1508206695367
+    },
+    {
+      "type": "remove",
+      "id": "4cb057ba7a5ef983",
+      "date": 1508206714283
+    },
+    {
+      "type": "remove",
+      "id": "63ad2e58eecdd9e5",
+      "date": 1508206720993
+    },
+    {
+      "type": "edit",
+      "id": "2bbd646ff3f44b51",
+      "item": {
+        "type": "paragraph",
+        "id": "2bbd646ff3f44b51",
+        "text": "[[Examples of Federated Wiki Use]]"
+      },
+      "date": 1508206806961
+    },
+    {
+      "type": "remove",
+      "id": "2bbd646ff3f44b51",
+      "date": 1508910576890
+    }
+  ]
+}

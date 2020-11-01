@@ -1,0 +1,298 @@
+{
+  "title": "Part 1",
+  "story": [
+    {
+      "type": "video",
+      "id": "4f919958a3777121",
+      "text": "YOUTUBE Bpn3eCpPCc8\nChristmas With The Canadian Brass"
+    },
+    {
+      "type": "video",
+      "id": "c82e484e5e6e02d8",
+      "text": "YOUTUBE esJ7syX4deI\nChristmas Carols from the Salvation Army "
+    },
+    {
+      "type": "video",
+      "id": "5dfc35b136eaf661",
+      "text": "YOUTUBE GjJY0JHK1nA\nChristmas Medley"
+    },
+    {
+      "type": "video",
+      "id": "a7f055eff9659efc",
+      "text": "YOUTUBE Z8vhMH2Irn0\nChristmas Songs For Children "
+    },
+    {
+      "type": "video",
+      "id": "9295826bd7521fef",
+      "text": "YOUTUBE iunknhlxRf4\nIf Mozart Wrote Christmas Carols! 2 Hours"
+    },
+    {
+      "type": "video",
+      "id": "52283a47d774a78b",
+      "text": "YOUTUBE fswqRP5haaE\nTRANS-SIBERIAN ORCHESTRA - Live Columbia 2013"
+    },
+    {
+      "type": "video",
+      "id": "b5386026f862662a",
+      "text": "YOUTUBE eAODpLKZULA\nTrans Siberian Orchestra The Ghosts Of Christmas Eve "
+    },
+    {
+      "type": "video",
+      "id": "4c0ed4d54d5d155e",
+      "text": "YOUTUBE _f04x4Uu51A\nMerry Christmas - Best Songs Of Christmas 2016"
+    },
+    {
+      "type": "video",
+      "id": "885a1991f2fdf434",
+      "text": "YOUTUBE 1Hhc-68WuWI\nOLD CHRISTMAS CAROLS & MUSIC WITH TOP CHRISTMAS LIGHT DISPLAYS "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Part 1",
+        "story": []
+      },
+      "date": 1449754185401
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dec75c654f240419"
+      },
+      "id": "dec75c654f240419",
+      "type": "add",
+      "date": 1449754190734
+    },
+    {
+      "type": "remove",
+      "id": "dec75c654f240419",
+      "date": 1449754205852
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4f919958a3777121"
+      },
+      "id": "4f919958a3777121",
+      "type": "add",
+      "date": 1449754213671
+    },
+    {
+      "type": "edit",
+      "id": "4f919958a3777121",
+      "item": {
+        "type": "video",
+        "id": "4f919958a3777121",
+        "text": "YOUTUBE Bpn3eCpPCc8\nChristmas With The Canadian Brass"
+      },
+      "date": 1449754219359
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c82e484e5e6e02d8"
+      },
+      "id": "c82e484e5e6e02d8",
+      "type": "add",
+      "after": "4f919958a3777121",
+      "date": 1449754239146
+    },
+    {
+      "type": "edit",
+      "id": "c82e484e5e6e02d8",
+      "item": {
+        "type": "video",
+        "id": "c82e484e5e6e02d8",
+        "text": "YOUTUBE esJ7syX4deI\nChristmas Carols from the Salvation Army "
+      },
+      "date": 1449754268589
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5dfc35b136eaf661"
+      },
+      "id": "5dfc35b136eaf661",
+      "type": "add",
+      "after": "c82e484e5e6e02d8",
+      "date": 1449754344233
+    },
+    {
+      "type": "edit",
+      "id": "5dfc35b136eaf661",
+      "item": {
+        "type": "video",
+        "id": "5dfc35b136eaf661",
+        "text": "YOUTUBE GjJY0JHK1nA\nChristmas Medley"
+      },
+      "date": 1449754354159
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a7f055eff9659efc"
+      },
+      "id": "a7f055eff9659efc",
+      "type": "add",
+      "after": "5dfc35b136eaf661",
+      "date": 1449754385522
+    },
+    {
+      "type": "edit",
+      "id": "a7f055eff9659efc",
+      "item": {
+        "type": "video",
+        "id": "a7f055eff9659efc",
+        "text": "YOUTUBE Z8vhMH2Irn0\nChristmas Songs For Children "
+      },
+      "date": 1449754392155
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "9295826bd7521fef"
+      },
+      "id": "9295826bd7521fef",
+      "type": "add",
+      "after": "a7f055eff9659efc",
+      "date": 1449754422600
+    },
+    {
+      "type": "edit",
+      "id": "9295826bd7521fef",
+      "item": {
+        "type": "video",
+        "id": "9295826bd7521fef",
+        "text": "YOUTUBE iunknhlxRf4\nIf Mozart Wrote Christmas Carols! 2 Hours"
+      },
+      "date": 1449754429023
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52283a47d774a78b"
+      },
+      "id": "52283a47d774a78b",
+      "type": "add",
+      "after": "9295826bd7521fef",
+      "date": 1449762212951
+    },
+    {
+      "type": "edit",
+      "id": "52283a47d774a78b",
+      "item": {
+        "type": "video",
+        "id": "52283a47d774a78b",
+        "text": "YOUTUBE fswqRP5haaE\n"
+      },
+      "date": 1449762252937
+    },
+    {
+      "type": "edit",
+      "id": "52283a47d774a78b",
+      "item": {
+        "type": "video",
+        "id": "52283a47d774a78b",
+        "text": "YOUTUBE fswqRP5haaE\nTRANS-SIBERIAN ORCHESTRA - Live Columbia 2013"
+      },
+      "date": 1449762301413
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b5386026f862662a"
+      },
+      "id": "b5386026f862662a",
+      "type": "add",
+      "after": "52283a47d774a78b",
+      "date": 1449762361552
+    },
+    {
+      "type": "edit",
+      "id": "b5386026f862662a",
+      "item": {
+        "type": "video",
+        "id": "b5386026f862662a",
+        "text": "YOUTUBE eAODpLKZULA\nxx"
+      },
+      "date": 1449762390054
+    },
+    {
+      "type": "edit",
+      "id": "b5386026f862662a",
+      "item": {
+        "type": "video",
+        "id": "b5386026f862662a",
+        "text": "YOUTUBE eAODpLKZULA\nTrans Siberian Orchestra The Ghosts Of Christmas Eve "
+      },
+      "date": 1449762413725
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c0ed4d54d5d155e"
+      },
+      "id": "4c0ed4d54d5d155e",
+      "type": "add",
+      "after": "b5386026f862662a",
+      "date": 1449762458375
+    },
+    {
+      "type": "edit",
+      "id": "4c0ed4d54d5d155e",
+      "item": {
+        "type": "video",
+        "id": "4c0ed4d54d5d155e",
+        "text": "YOUTUBE _f04x4Uu51A\nMe"
+      },
+      "date": 1449762481206
+    },
+    {
+      "type": "edit",
+      "id": "4c0ed4d54d5d155e",
+      "item": {
+        "type": "video",
+        "id": "4c0ed4d54d5d155e",
+        "text": "YOUTUBE _f04x4Uu51A\nMerry Christmas - Best Songs Of Christmas 2016"
+      },
+      "date": 1449762533251
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "885a1991f2fdf434"
+      },
+      "id": "885a1991f2fdf434",
+      "type": "add",
+      "after": "4c0ed4d54d5d155e",
+      "date": 1449762676948
+    },
+    {
+      "type": "edit",
+      "id": "885a1991f2fdf434",
+      "item": {
+        "type": "video",
+        "id": "885a1991f2fdf434",
+        "text": "YOUTUBE 1Hhc-68WuWI\nx"
+      },
+      "date": 1449762694860
+    },
+    {
+      "type": "edit",
+      "id": "885a1991f2fdf434",
+      "item": {
+        "type": "video",
+        "id": "885a1991f2fdf434",
+        "text": "YOUTUBE 1Hhc-68WuWI\nOLD CHRISTMAS CAROLS & MUSIC WITH TOP CHRISTMAS LIGHT DISPLAYS "
+      },
+      "date": 1449762731374
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228604930
+    }
+  ]
+}

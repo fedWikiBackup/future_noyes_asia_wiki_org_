@@ -1,0 +1,109 @@
+{
+  "title": "Slaidburn - March",
+  "story": [
+    {
+      "type": "video",
+      "id": "d3cbaec2094c732b",
+      "text": "YOUTUBE wTmj9YRCNj0\nInternet URL"
+    },
+    {
+      "type": "paragraph",
+      "id": "6ebc9b085b9f38bc",
+      "text": "I was once told.. \"You're not a real brass band player until you've played this, even if you do play it badly\" I'm inclined to agree﻿ "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Slaidburn - March",
+        "story": []
+      },
+      "date": 1505143300275
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d3cbaec2094c732b"
+      },
+      "id": "d3cbaec2094c732b",
+      "type": "add",
+      "date": 1505143302387
+    },
+    {
+      "type": "edit",
+      "id": "d3cbaec2094c732b",
+      "item": {
+        "type": "video",
+        "id": "d3cbaec2094c732b",
+        "text": "YOUTUBE "
+      },
+      "date": 1505143319535
+    },
+    {
+      "type": "edit",
+      "id": "d3cbaec2094c732b",
+      "item": {
+        "type": "video",
+        "id": "d3cbaec2094c732b",
+        "text": "YOUTUBE wTmj9YRCNj0"
+      },
+      "date": 1505143334892
+    },
+    {
+      "type": "edit",
+      "id": "d3cbaec2094c732b",
+      "item": {
+        "type": "video",
+        "id": "d3cbaec2094c732b",
+        "text": "YOUTUBE wTmj9YRCNj0\nI was once told.. \"You're not a real brass band player until you've played this, even if you do play it badly\" I'm inclined to agree﻿ "
+      },
+      "date": 1505143421243
+    },
+    {
+      "type": "fork",
+      "site": "brassbands.noyes.asia.wiki.org",
+      "date": 1506390774888
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228535206
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6ebc9b085b9f38bc",
+        "text": "I was once told.. \"You're not a real brass band player until you've played this, even if you do play it badly\" I'm inclined to agree﻿ "
+      },
+      "id": "6ebc9b085b9f38bc",
+      "type": "add",
+      "after": "d3cbaec2094c732b",
+      "date": 1508910458162,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1508910509691
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "769eaf4d248ed867"
+      },
+      "id": "769eaf4d248ed867",
+      "type": "add",
+      "after": "6ebc9b085b9f38bc",
+      "date": 1513881827728
+    },
+    {
+      "type": "remove",
+      "id": "769eaf4d248ed867",
+      "date": 1513881850460
+    }
+  ]
+}

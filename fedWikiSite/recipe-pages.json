@@ -1,0 +1,39 @@
+{
+  "title": "Recipe Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "f0a02b9eac2c717a",
+      "text": "[[Sloppy Joe Recipe]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Recipe Pages",
+        "story": []
+      },
+      "date": 1508230103392
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f0a02b9eac2c717a",
+        "text": "[[Sloppy Joe Recipe]]"
+      },
+      "id": "f0a02b9eac2c717a",
+      "date": 1508230113834
+    },
+    {
+      "type": "fork",
+      "date": 1508230118006
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508230210335
+    }
+  ]
+}

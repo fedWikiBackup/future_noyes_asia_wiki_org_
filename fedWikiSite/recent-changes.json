@@ -1,0 +1,251 @@
+{
+  "title": "Recent Changes",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "badcd99c769a84b1",
+      "text": "[[Recent Changes Template]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "435d07cf9bf34a70",
+      "text": "Here we list neighborhood pages with those most recently changed listed first. See also [[Local Changes]]."
+    },
+    {
+      "type": "roster",
+      "id": "aaa658b7ce520b18",
+      "text": "site\nfuture.noyes.asia.wiki.org",
+      "alias": "0006183f02d4d691"
+    },
+    {
+      "type": "activity",
+      "id": "e9e9f102158e1382",
+      "text": "ROSTER site\n\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Recent Changes"
+      },
+      "date": 1362950343274
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "435d07cf9bf34a70"
+      },
+      "id": "435d07cf9bf34a70",
+      "type": "add",
+      "date": 1362950345345
+    },
+    {
+      "type": "edit",
+      "id": "435d07cf9bf34a70",
+      "item": {
+        "type": "paragraph",
+        "id": "435d07cf9bf34a70",
+        "text": "Here we list pages in our neighborhood with those most recently changed listed first."
+      },
+      "date": 1362950531998
+    },
+    {
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382"
+      },
+      "id": "e9e9f102158e1382",
+      "type": "add",
+      "after": "435d07cf9bf34a70",
+      "date": 1362950534228
+    },
+    {
+      "type": "edit",
+      "id": "435d07cf9bf34a70",
+      "item": {
+        "type": "paragraph",
+        "id": "435d07cf9bf34a70",
+        "text": "Here we list pages in our neighborhood with those most recently changed listed first. See also [[Local Changes]]."
+      },
+      "date": 1362955045154
+    },
+    {
+      "type": "edit",
+      "id": "435d07cf9bf34a70",
+      "item": {
+        "type": "paragraph",
+        "id": "435d07cf9bf34a70",
+        "text": "Here we list pages in our neighborhood with those most recently changed listed first. See [[Local Changes]]."
+      },
+      "date": 1362955511449
+    },
+    {
+      "type": "edit",
+      "id": "435d07cf9bf34a70",
+      "item": {
+        "type": "paragraph",
+        "id": "435d07cf9bf34a70",
+        "text": "Here we list neighborhood pages with those most recently changed listed first. See [[More About Activity Plugin]."
+      },
+      "date": 1362955622067
+    },
+    {
+      "type": "edit",
+      "id": "435d07cf9bf34a70",
+      "item": {
+        "type": "paragraph",
+        "id": "435d07cf9bf34a70",
+        "text": "Here we list neighborhood pages with those most recently changed listed first. See [[More About Activity Plugin]]."
+      },
+      "date": 1362955629705
+    },
+    {
+      "type": "edit",
+      "id": "435d07cf9bf34a70",
+      "item": {
+        "type": "paragraph",
+        "id": "435d07cf9bf34a70",
+        "text": "Here we list neighborhood pages with those most recently changed listed first. See also [[Local Changes]]."
+      },
+      "date": 1362955694011
+    },
+    {
+      "type": "fork",
+      "date": 1506199488000
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "MINE exclude\n"
+      },
+      "date": 1506434637887
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "SINCE 14 days\n"
+      },
+      "date": 1507902574282
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "SINCE 90 days\n"
+      },
+      "date": 1507904420142
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228828628
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0006183f02d4d691"
+      },
+      "id": "0006183f02d4d691",
+      "type": "add",
+      "after": "e9e9f102158e1382",
+      "date": 1508228883440
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER site\nSINCE 90 days\n"
+      },
+      "date": 1508228895147
+    },
+    {
+      "type": "edit",
+      "id": "0006183f02d4d691",
+      "item": {
+        "type": "roster",
+        "id": "0006183f02d4d691",
+        "text": "site\nfuture.noyes.asia.wiki.org"
+      },
+      "date": 1508228921671
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "0006183f02d4d691",
+        "text": "site\nfuture.noyes.asia.wiki.org"
+      },
+      "after": "435d07cf9bf34a70",
+      "id": "0006183f02d4d691",
+      "date": 1508228939306
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "aaa658b7ce520b18",
+        "text": "site\nfuture.noyes.asia.wiki.org",
+        "alias": "0006183f02d4d691"
+      },
+      "after": "435d07cf9bf34a70",
+      "id": "aaa658b7ce520b18",
+      "date": 1508228949787
+    },
+    {
+      "type": "edit",
+      "id": "d848dde384098720",
+      "item": {
+        "type": "roster",
+        "id": "d848dde384098720",
+        "text": "sites\nfuture.noyes.asia.wiki.org"
+      },
+      "date": 1508229607255
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "badcd99c769a84b1"
+      },
+      "id": "badcd99c769a84b1",
+      "type": "add",
+      "after": "d848dde384098720",
+      "date": 1508229626242
+    },
+    {
+      "type": "edit",
+      "id": "badcd99c769a84b1",
+      "item": {
+        "type": "paragraph",
+        "id": "badcd99c769a84b1",
+        "text": "[[Recent Changes Template]]"
+      },
+      "date": 1508229656322
+    },
+    {
+      "type": "remove",
+      "id": "0006183f02d4d691",
+      "date": 1508910535320
+    },
+    {
+      "type": "edit",
+      "id": "e9e9f102158e1382",
+      "item": {
+        "type": "activity",
+        "id": "e9e9f102158e1382",
+        "text": "ROSTER site\n\n"
+      },
+      "date": 1564840707409
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "About sites",
+  "story": [
+    {
+      "type": "pagefold",
+      "id": "1278ec8e6fa852c0",
+      "text": "site information"
+    },
+    {
+      "type": "paragraph",
+      "id": "3cf52d08f2e033f3",
+      "text": "If you wish a site of your own, there are ways you may [[create your site]] and [[claim the site]] as your own. "
+    },
+    {
+      "type": "paragraph",
+      "id": "b1c46e96045c93dd",
+      "text": "Other newly formed or unclaimed sites allow you to claim them, or ask you to [[sign in]]. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About sites",
+        "story": []
+      },
+      "date": 1463421735912
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "pagefold",
+        "id": "1278ec8e6fa852c0",
+        "text": "site information"
+      },
+      "id": "1278ec8e6fa852c0",
+      "date": 1463421739108
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "3cf52d08f2e033f3",
+        "text": "If you wish a site of your own, there are ways you may [[create your site]] and [[claim the site]] as your own. "
+      },
+      "after": "1278ec8e6fa852c0",
+      "id": "3cf52d08f2e033f3",
+      "date": 1463421753504
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b1c46e96045c93dd",
+        "text": "Other newly formed or unclaimed sites allow you to claim them, or ask you to [[sign in]]. "
+      },
+      "after": "3cf52d08f2e033f3",
+      "id": "b1c46e96045c93dd",
+      "date": 1463421757718
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508910839724
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "examples-of-federated-wiki-use",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "31762bea76e22900",
+      "text": "[[Brass Band Pages]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "7d15537e1c60dd6b",
+      "text": "[[Recipe Pages]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "examples-of-federated-wiki-use",
+        "story": []
+      },
+      "date": 1508206823013
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "31762bea76e22900"
+      },
+      "id": "31762bea76e22900",
+      "type": "add",
+      "date": 1508206830318
+    },
+    {
+      "type": "edit",
+      "id": "31762bea76e22900",
+      "item": {
+        "type": "paragraph",
+        "id": "31762bea76e22900",
+        "text": "[[Brass Band Pages]]"
+      },
+      "date": 1508206880024
+    },
+    {
+      "type": "add",
+      "id": "7d15537e1c60dd6b",
+      "item": {
+        "type": "paragraph",
+        "id": "7d15537e1c60dd6b",
+        "text": "[[Recipe Pages]]"
+      },
+      "after": "31762bea76e22900",
+      "date": 1508229333419
+    }
+  ]
+}

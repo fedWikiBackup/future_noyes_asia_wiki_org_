@@ -1,0 +1,100 @@
+{
+  "title": "Barcelona Symphony Brass Band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b9161b8bbd68e2d1",
+      "text": "[http://www.bbc.co.uk/programmes/b0949f26 Johan de Meij with the Barcelona Symphony Brass Band Through the Night]"
+    },
+    {
+      "type": "paragraph",
+      "id": "655d90b6be801b2a",
+      "text": "6h 3m -- Jonathan Swain presents a concert of brass band music from Barcelona, including a trombone concerto by Johan de Meij, and highlights from Riverdance"
+    },
+    {
+      "type": "pagefold",
+      "id": "ed15427074c2a3b4",
+      "text": "..."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Barcelona Symphony Brass Band",
+        "story": []
+      },
+      "date": 1505762145280
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "b9161b8bbd68e2d1",
+        "text": "[http://www.bbc.co.uk/programmes/b0949f26 Johan de Meij with the Barcelona Symphony Brass Band Through the Night]"
+      },
+      "id": "b9161b8bbd68e2d1",
+      "date": 1505762149089
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "655d90b6be801b2a"
+      },
+      "id": "655d90b6be801b2a",
+      "type": "add",
+      "after": "b9161b8bbd68e2d1",
+      "date": 1505762152829
+    },
+    {
+      "type": "edit",
+      "id": "655d90b6be801b2a",
+      "item": {
+        "type": "paragraph",
+        "id": "655d90b6be801b2a",
+        "text": "Jonathan Swain presents a concert of brass band music from Barcelona, including a trombone concerto by Johan de Meij, and highlights from Riverdance"
+      },
+      "date": 1505762166033
+    },
+    {
+      "type": "edit",
+      "id": "655d90b6be801b2a",
+      "item": {
+        "type": "paragraph",
+        "id": "655d90b6be801b2a",
+        "text": "6h 3m -- Jonathan Swain presents a concert of brass band music from Barcelona, including a trombone concerto by Johan de Meij, and highlights from Riverdance"
+      },
+      "date": 1505762203608
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ed15427074c2a3b4"
+      },
+      "id": "ed15427074c2a3b4",
+      "type": "add",
+      "after": "655d90b6be801b2a",
+      "date": 1505762210950
+    },
+    {
+      "type": "edit",
+      "id": "ed15427074c2a3b4",
+      "item": {
+        "type": "pagefold",
+        "id": "ed15427074c2a3b4",
+        "text": "..."
+      },
+      "date": 1505762224681
+    },
+    {
+      "type": "fork",
+      "site": "brassbands.noyes.asia.wiki.org",
+      "date": 1506390411710
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228670879
+    }
+  ]
+}
