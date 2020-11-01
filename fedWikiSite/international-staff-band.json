@@ -1,0 +1,39 @@
+{
+  "title": "International Staff Band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "61d32dc97e2cdf76",
+      "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "International Staff Band",
+        "story": []
+      },
+      "date": 1508228501562
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "61d32dc97e2cdf76",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "id": "61d32dc97e2cdf76",
+      "type": "add",
+      "date": 1513881502095,
+      "error": {
+        "type": "error",
+        "msg": "Forbidden",
+        "response": "Forbidden"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1513881636715
+    }
+  ]
+}
