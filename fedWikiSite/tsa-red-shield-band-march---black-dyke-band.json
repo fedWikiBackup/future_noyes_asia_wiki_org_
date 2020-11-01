@@ -1,0 +1,148 @@
+{
+  "title": "TSA Red Shield Band March - Black Dyke Band",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d8aabc7dc796b203",
+      "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "TSA Red Shield Band March - Black Dyke Band",
+        "story": []
+      },
+      "date": 1507910105713
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "07a1f41cccea6be6"
+      },
+      "id": "07a1f41cccea6be6",
+      "type": "add",
+      "date": 1507910108930
+    },
+    {
+      "type": "edit",
+      "id": "07a1f41cccea6be6",
+      "item": {
+        "type": "video",
+        "id": "07a1f41cccea6be6",
+        "text": "YOUTUBE Red Shield Band March - Black Dyke Band"
+      },
+      "date": 1507910128703
+    },
+    {
+      "type": "edit",
+      "id": "07a1f41cccea6be6",
+      "item": {
+        "type": "video",
+        "id": "07a1f41cccea6be6",
+        "text": "YOUTUBE 2G5siMgohzw\nRed Shield Band March - Black Dyke Band"
+      },
+      "date": 1507910156677
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "65e4b332d30b1b16"
+      },
+      "id": "65e4b332d30b1b16",
+      "type": "add",
+      "after": "07a1f41cccea6be6",
+      "date": 1508029898343
+    },
+    {
+      "type": "edit",
+      "id": "65e4b332d30b1b16",
+      "item": {
+        "type": "video",
+        "id": "65e4b332d30b1b16",
+        "text": "YOUTUBE 2G5siMgohzw\n -Black Dyke Band"
+      },
+      "date": 1508029957668
+    },
+    {
+      "type": "edit",
+      "id": "65e4b332d30b1b16",
+      "item": {
+        "type": "video",
+        "id": "65e4b332d30b1b16",
+        "text": "YOUTUBE tOpvSAQei1U\nUnder Two Flags -Black Dyke Band"
+      },
+      "date": 1508030048913
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5041ca845b767484"
+      },
+      "id": "5041ca845b767484",
+      "type": "add",
+      "after": "65e4b332d30b1b16",
+      "date": 1508030165734
+    },
+    {
+      "type": "edit",
+      "id": "5041ca845b767484",
+      "item": {
+        "type": "video",
+        "id": "5041ca845b767484",
+        "text": "YOUTUBE 54LUON28x44\nHighland"
+      },
+      "date": 1508030202085
+    },
+    {
+      "type": "edit",
+      "id": "5041ca845b767484",
+      "item": {
+        "type": "video",
+        "id": "5041ca845b767484",
+        "text": "YOUTUBE 54LUON28x44\nHighland Cathedral - Black Dyke Band"
+      },
+      "date": 1508030236498
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228493808
+    },
+    {
+      "type": "remove",
+      "id": "07a1f41cccea6be6",
+      "date": 1513882176912
+    },
+    {
+      "type": "remove",
+      "id": "65e4b332d30b1b16",
+      "date": 1513882192916
+    },
+    {
+      "type": "remove",
+      "id": "5041ca845b767484",
+      "date": 1513882201796
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d8aabc7dc796b203"
+      },
+      "id": "d8aabc7dc796b203",
+      "type": "add",
+      "date": 1513882203525
+    },
+    {
+      "type": "edit",
+      "id": "d8aabc7dc796b203",
+      "item": {
+        "type": "paragraph",
+        "id": "d8aabc7dc796b203",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "date": 1513882209645
+    }
+  ]
+}
