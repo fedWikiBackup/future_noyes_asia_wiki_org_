@@ -1,0 +1,780 @@
+{
+  "title": "Brass Band Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d4ca6daa3c7a5710",
+      "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Brass Band Pages",
+        "story": []
+      },
+      "date": 1508227581904
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "14fa78a51e4e9ad3",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "atlantic-brass-band",
+        "title": "Atlantic Brass Band",
+        "text": "A page with 0 items."
+      },
+      "id": "14fa78a51e4e9ad3",
+      "date": 1508227587944
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "9d763fe6f744c08f",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "barcelona-symphony-brass-band",
+        "title": "Barcelona Symphony Brass Band",
+        "text": "[http://www.bbc.co.uk/programmes/b0949f26 Johan de Meij with the Barcelona Symphony Brass Band Through the Night]"
+      },
+      "after": "14fa78a51e4e9ad3",
+      "id": "9d763fe6f744c08f",
+      "date": 1508227592642
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "9aeeba057de9ecd5",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "bjrsvik-brass",
+        "title": "Bjørsvik Brass",
+        "text": "A page with 0 items."
+      },
+      "after": "9d763fe6f744c08f",
+      "id": "9aeeba057de9ecd5",
+      "date": 1508227596844
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "f7790d18133dfe3a",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "black-dyke-band-history",
+        "title": "Black Dyke Band History",
+        "text": "In 1816 Peter Wharton founded a brass and reed band in the Yorkshire village of Queenshead – later to become Queensbury. John Foster, apart from being the founder of Black Dyke Mills, played French Horn in this band. It has been said on many occasions that Black Dyke was formed from it; however this is not strictly true, as “Peter Whartons band went out of existence through loss of members”. In 1833 a new band was formed named ‘Queenshead Band’, which may well have contained players from the former band. It is reported that this Band reached its Zenith from 1838 to 1843, at which time it consisted of 18 musicians”. However it is recorded in the Halifax Courier of the 15th September 1855 that:\n\n“Queenshead Band formed early in the century by residents came into difficulties. John Foster & Son, having lately become acquainted with the depressed state of the band determined to make an effort themselves to raise it up again. Accordingly they have purchased from that eminent maker, Mr. Joseph Higham, of Manchester, a new set of instruments which have this week been delivered to the band, which in future is to be denominated Black Dyke Mills Band. A new and talented leader, as well as several performers, have been added to the band which now comprises 18 musicians. Messrs. Fosters have provided for them a comfortable room in which they will meet for practising”"
+      },
+      "after": "14fa78a51e4e9ad3",
+      "id": "f7790d18133dfe3a",
+      "date": 1508227606221
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "fc6a82edff085a8c",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "brass-band-schoonhoven",
+        "title": "Brass Band Schoonhoven",
+        "text": "A page with 0 items."
+      },
+      "after": "9aeeba057de9ecd5",
+      "id": "fc6a82edff085a8c",
+      "date": 1508227630699
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "58d6a31a76d8a5f5",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "brass-band-treize-etoiles",
+        "title": "Brass Band Treize Etoiles",
+        "text": "A page with 0 items."
+      },
+      "after": "fc6a82edff085a8c",
+      "id": "58d6a31a76d8a5f5",
+      "date": 1508227636791
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "42cded0b39e3440f",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "brass-band-willebroek",
+        "title": "Brass Band Willebroek",
+        "text": "A page with 0 items."
+      },
+      "after": "58d6a31a76d8a5f5",
+      "id": "42cded0b39e3440f",
+      "date": 1508227642396
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "7a996bc7644b72bd",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "brass-bands",
+        "title": "Brass Bands",
+        "text": "[[The Salvation Army and Brass Banding]]"
+      },
+      "after": "14fa78a51e4e9ad3",
+      "id": "7a996bc7644b72bd",
+      "date": 1508227647305
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "51b0cd51a85822de",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "brass-of-the-potomac",
+        "title": "Brass of the Potomac",
+        "text": "A page with 0 items."
+      },
+      "after": "7a996bc7644b72bd",
+      "id": "51b0cd51a85822de",
+      "date": 1508227653280
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "4c6ba2d344f085e7",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "brighouse-and-rastrick",
+        "title": "Brighouse and Rastrick",
+        "text": "The Brighouse and Rastrick Band is regarded by many as the best and most consistent ‘public subscription band’ in the world. In its time the majority of premier band championships have been held by ‘Briggus’ whilst the band has also attracted a formidable reputation for highly entertaining concerts for both the general public and brass band connoisseur.\n\n"
+      },
+      "after": "51b0cd51a85822de",
+      "id": "4c6ba2d344f085e7",
+      "date": 1508227660049
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "f138515394cf5887",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "cory",
+        "title": "Cory",
+        "text": "Ranked no 1 in [[Brass Band Rankings]] with 1939.6 points"
+      },
+      "after": "4c6ba2d344f085e7",
+      "id": "f138515394cf5887",
+      "date": 1508227664619
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "79d7b92cda40bdd0",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "eikanger-bjrsvik",
+        "title": "Eikanger-Bjørsvik",
+        "text": "The Eikanger-Bjørsvik band (also known as the Eikanger band) is a brass and percussion ensemble from the municipality of Lindås, Norway. "
+      },
+      "after": "f138515394cf5887",
+      "id": "79d7b92cda40bdd0",
+      "date": 1508227669836
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "9a9beb20461760c9",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "filton-concert-brass",
+        "title": "Filton Concert Brass",
+        "text": "A page with 0 items."
+      },
+      "after": "79d7b92cda40bdd0",
+      "id": "9a9beb20461760c9",
+      "date": 1508227680361
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "e424d4052dba68ef",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "grimethorpe-colliery-videos",
+        "title": "Grimethorpe Colliery Videos",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park\nBrass In Concert 2008 at The Sage, Gateshead Grimethorpe Colliery Band DVD -- www.worldofbrass.com"
+      },
+      "after": "79d7b92cda40bdd0",
+      "id": "e424d4052dba68ef",
+      "date": 1508227683429
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "6a0b4aff4048eb1e",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "journey-into-freedom---black-dyke-bank---eric-ball",
+        "title": "Journey into Freedom - Black Dyke Bank - Eric Ball",
+        "text": "This was the 1967 National Brass Band Championship test piece, when Black Dyke Mills Band, conducted by Geoffrey Brand won. "
+      },
+      "after": "79d7b92cda40bdd0",
+      "id": "6a0b4aff4048eb1e",
+      "date": 1508227686428
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "517bcea0969bb9d0",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "paris-brass-band",
+        "title": "Paris Brass Band",
+        "text": "A page with 0 items."
+      },
+      "after": "79d7b92cda40bdd0",
+      "id": "517bcea0969bb9d0",
+      "date": 1508227689977
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "55393c6e0d106781",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "part-1",
+        "title": "Part 1",
+        "text": "YOUTUBE Bpn3eCpPCc8\nChristmas With The Canadian Brass"
+      },
+      "after": "517bcea0969bb9d0",
+      "id": "55393c6e0d106781",
+      "date": 1508227697328
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "34d2ce510f2fa7a8",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "redbridge-brass-",
+        "title": "Redbridge Brass ",
+        "text": "Redbridge Brass is the premier brass band in London and the Southern Counties. "
+      },
+      "after": "4c6ba2d344f085e7",
+      "id": "34d2ce510f2fa7a8",
+      "date": 1508227715828
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "fabc71e1c9b9d771",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "slaidburn---march",
+        "title": "Slaidburn - March",
+        "text": "YOUTUBE wTmj9YRCNj0\nI was once told.. \"You're not a real brass band player until you've played this, even if you do play it badly\" I'm inclined to agree﻿ "
+      },
+      "after": "51b0cd51a85822de",
+      "id": "fabc71e1c9b9d771",
+      "date": 1508227724063
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "da97da93c6287062",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "tallgrass-brass-band",
+        "title": "Tallgrass Brass Band",
+        "text": "A page with 0 items."
+      },
+      "after": "fabc71e1c9b9d771",
+      "id": "da97da93c6287062",
+      "date": 1508227727419
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "bdd6b618785e8bcb",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "the-salvation-armn-and-brass-banding",
+        "title": "The Salvation Armn and Brass Banding",
+        "text": "A page with 0 items."
+      },
+      "id": "bdd6b618785e8bcb",
+      "date": 1508227733642
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "4ffb4c9ef3c38416",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "the-salvation-army-and-brass-banding",
+        "title": "the-salvation-army-and-brass-banding",
+        "text": "[[Melbourne Staff Band]]"
+      },
+      "after": "bdd6b618785e8bcb",
+      "id": "4ffb4c9ef3c38416",
+      "date": 1508227740493
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "961642b5e183440d",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "valaisia-brass-band",
+        "title": "Valaisia Brass Band",
+        "text": "A page with 0 items."
+      },
+      "after": "4ffb4c9ef3c38416",
+      "id": "961642b5e183440d",
+      "date": 1508227745660
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "cedcb26190779816",
+        "type": "reference",
+        "site": "localhost:9218",
+        "slug": "wellington-brass",
+        "title": "Wellington Brass",
+        "text": "A page with 0 items."
+      },
+      "id": "cedcb26190779816",
+      "date": 1508227754111
+    },
+    {
+      "type": "fork",
+      "date": 1508227768586
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228265820
+    },
+    {
+      "type": "move",
+      "order": [
+        "79d7b92cda40bdd0",
+        "fabc71e1c9b9d771",
+        "da97da93c6287062",
+        "34d2ce510f2fa7a8",
+        "6a0b4aff4048eb1e",
+        "e424d4052dba68ef",
+        "9a9beb20461760c9",
+        "f7790d18133dfe3a",
+        "9d763fe6f744c08f",
+        "9aeeba057de9ecd5",
+        "fc6a82edff085a8c",
+        "58d6a31a76d8a5f5",
+        "42cded0b39e3440f"
+      ],
+      "id": "79d7b92cda40bdd0",
+      "date": 1508228265258,
+      "error": {
+        "type": "error",
+        "msg": "Not Found",
+        "response": "Page not found"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1508228380471
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "b3da407abfc7ea3a",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "eikanger-bjrsvik",
+        "title": "Eikanger-Bjørsvik",
+        "text": "The Eikanger-Bjørsvik band (also known as the Eikanger band) is a brass and percussion ensemble from the municipality of Lindås, Norway. "
+      },
+      "id": "b3da407abfc7ea3a",
+      "date": 1508229135639
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "6e33694a5020678a",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "the-salvation-army-and-brass-banding",
+        "title": "the-salvation-army-and-brass-banding",
+        "text": "[[Melbourne Staff Band]]"
+      },
+      "after": "b3da407abfc7ea3a",
+      "id": "6e33694a5020678a",
+      "date": 1508229143132
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "5f47e87fd7377514",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "slaidburn---march",
+        "title": "Slaidburn - March",
+        "text": "YOUTUBE wTmj9YRCNj0\nI was once told.. \"You're not a real brass band player until you've played this, even if you do play it badly\" I'm inclined to agree﻿ "
+      },
+      "after": "6e33694a5020678a",
+      "id": "5f47e87fd7377514",
+      "date": 1508229147368
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "7ca758b95f7e71fe",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "brighouse-and-rastrick",
+        "title": "Brighouse and Rastrick",
+        "text": "The Brighouse and Rastrick Band is regarded by many as the best and most consistent ‘public subscription band’ in the world. In its time the majority of premier band championships have been held by ‘Briggus’ whilst the band has also attracted a formidable reputation for highly entertaining concerts for both the general public and brass band connoisseur.\n\n"
+      },
+      "id": "7ca758b95f7e71fe",
+      "date": 1508229153178
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "c95ad64ec7ee3f37",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "journey-into-freedom---black-dyke-bank---eric-ball",
+        "title": "Journey into Freedom - Black Dyke Bank - Eric Ball",
+        "text": "This was the 1967 National Brass Band Championship test piece, when Black Dyke Mills Band, conducted by Geoffrey Brand won. "
+      },
+      "id": "c95ad64ec7ee3f37",
+      "date": 1508229164005
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "6e77974bafa01886",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "black-dyke-band-history",
+        "title": "Black Dyke Band History",
+        "text": "In 1816 Peter Wharton founded a brass and reed band in the Yorkshire village of Queenshead – later to become Queensbury. John Foster, apart from being the founder of Black Dyke Mills, played French Horn in this band. It has been said on many occasions that Black Dyke was formed from it; however this is not strictly true, as “Peter Whartons band went out of existence through loss of members”. In 1833 a new band was formed named ‘Queenshead Band’, which may well have contained players from the former band. It is reported that this Band reached its Zenith from 1838 to 1843, at which time it consisted of 18 musicians”. However it is recorded in the Halifax Courier of the 15th September 1855 that:\n\n“Queenshead Band formed early in the century by residents came into difficulties. John Foster & Son, having lately become acquainted with the depressed state of the band determined to make an effort themselves to raise it up again. Accordingly they have purchased from that eminent maker, Mr. Joseph Higham, of Manchester, a new set of instruments which have this week been delivered to the band, which in future is to be denominated Black Dyke Mills Band. A new and talented leader, as well as several performers, have been added to the band which now comprises 18 musicians. Messrs. Fosters have provided for them a comfortable room in which they will meet for practising”"
+      },
+      "after": "c95ad64ec7ee3f37",
+      "id": "6e77974bafa01886",
+      "date": 1508229167937
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "879fcaf106255ec5",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "barcelona-symphony-brass-band",
+        "title": "Barcelona Symphony Brass Band",
+        "text": "[http://www.bbc.co.uk/programmes/b0949f26 Johan de Meij with the Barcelona Symphony Brass Band Through the Night]"
+      },
+      "after": "c95ad64ec7ee3f37",
+      "id": "879fcaf106255ec5",
+      "date": 1508229172117
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "b3c2bcbc6dc406c5",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "cory",
+        "title": "Cory",
+        "text": "Ranked no 1 in [[Brass Band Rankings]] with 1939.6 points"
+      },
+      "after": "7ca758b95f7e71fe",
+      "id": "b3c2bcbc6dc406c5",
+      "date": 1508229177574
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "f95a5faf3588de6b",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "grimethorpe-colliery-videos",
+        "title": "Grimethorpe Colliery Videos",
+        "text": "YOUTUBE USf1zRaDyH4\nMacArthur Park\nBrass In Concert 2008 at The Sage, Gateshead Grimethorpe Colliery Band DVD -- www.worldofbrass.com"
+      },
+      "after": "6e77974bafa01886",
+      "id": "f95a5faf3588de6b",
+      "date": 1508229181608
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "1a4960d3cb98a6c5",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "part-1",
+        "title": "Part 1",
+        "text": "YOUTUBE Bpn3eCpPCc8\nChristmas With The Canadian Brass"
+      },
+      "after": "f95a5faf3588de6b",
+      "id": "1a4960d3cb98a6c5",
+      "date": 1508229187324
+    },
+    {
+      "type": "add",
+      "item": {
+        "id": "478bf523551f018d",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "redbridge-brass-",
+        "title": "Redbridge Brass ",
+        "text": "Redbridge Brass is the premier brass band in London and the Southern Counties. "
+      },
+      "after": "879fcaf106255ec5",
+      "id": "478bf523551f018d",
+      "date": 1508229190752
+    },
+    {
+      "type": "remove",
+      "id": "79d7b92cda40bdd0",
+      "date": 1508229221562
+    },
+    {
+      "type": "remove",
+      "id": "cedcb26190779816",
+      "date": 1508229224104
+    },
+    {
+      "type": "remove",
+      "id": "bdd6b618785e8bcb",
+      "date": 1508229226887
+    },
+    {
+      "type": "remove",
+      "id": "4ffb4c9ef3c38416",
+      "date": 1508229229689
+    },
+    {
+      "type": "remove",
+      "id": "961642b5e183440d",
+      "date": 1508229233205
+    },
+    {
+      "type": "remove",
+      "id": "14fa78a51e4e9ad3",
+      "date": 1508229236314
+    },
+    {
+      "type": "remove",
+      "id": "7a996bc7644b72bd",
+      "date": 1508229239038
+    },
+    {
+      "type": "remove",
+      "id": "51b0cd51a85822de",
+      "date": 1508229241919
+    },
+    {
+      "type": "remove",
+      "id": "fabc71e1c9b9d771",
+      "date": 1508229244568
+    },
+    {
+      "type": "remove",
+      "id": "da97da93c6287062",
+      "date": 1508229248074
+    },
+    {
+      "type": "remove",
+      "id": "4c6ba2d344f085e7",
+      "date": 1508229251743
+    },
+    {
+      "type": "remove",
+      "id": "34d2ce510f2fa7a8",
+      "date": 1508229256127
+    },
+    {
+      "type": "remove",
+      "id": "f138515394cf5887",
+      "date": 1508229259605
+    },
+    {
+      "type": "remove",
+      "id": "517bcea0969bb9d0",
+      "date": 1508229262253
+    },
+    {
+      "type": "remove",
+      "id": "55393c6e0d106781",
+      "date": 1508229265194
+    },
+    {
+      "type": "remove",
+      "id": "6a0b4aff4048eb1e",
+      "date": 1508229268213
+    },
+    {
+      "type": "remove",
+      "id": "9a9beb20461760c9",
+      "date": 1508229271286
+    },
+    {
+      "type": "remove",
+      "id": "e424d4052dba68ef",
+      "date": 1508229274405
+    },
+    {
+      "type": "remove",
+      "id": "f7790d18133dfe3a",
+      "date": 1508229277800
+    },
+    {
+      "type": "remove",
+      "id": "9d763fe6f744c08f",
+      "date": 1508229280961
+    },
+    {
+      "type": "remove",
+      "id": "9aeeba057de9ecd5",
+      "date": 1508229284057
+    },
+    {
+      "type": "remove",
+      "id": "fc6a82edff085a8c",
+      "date": 1508229287283
+    },
+    {
+      "type": "remove",
+      "id": "58d6a31a76d8a5f5",
+      "date": 1508229290636
+    },
+    {
+      "type": "remove",
+      "id": "42cded0b39e3440f",
+      "date": 1508229293808
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "ae5c630fe238400a",
+        "text": "site\nfuture.noyes.asia.wiki.org"
+      },
+      "id": "ae5c630fe238400a",
+      "date": 1508229753412
+    },
+    {
+      "type": "remove",
+      "id": "ae5c630fe238400a",
+      "date": 1508229800192
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "ae5c630fe238400a",
+        "text": "site\nfuture.noyes.asia.wiki.org"
+      },
+      "id": "ae5c630fe238400a",
+      "date": 1508229811665
+    },
+    {
+      "type": "remove",
+      "id": "ae5c630fe238400a",
+      "date": 1508229824019
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4ca6daa3c7a5710"
+      },
+      "id": "d4ca6daa3c7a5710",
+      "type": "add",
+      "after": "5f47e87fd7377514",
+      "date": 1513881926077
+    },
+    {
+      "type": "edit",
+      "id": "d4ca6daa3c7a5710",
+      "item": {
+        "type": "paragraph",
+        "id": "d4ca6daa3c7a5710",
+        "text": "see [http://brassbands.noyes.asia.wiki.org/view/welcome-visitors/view/recent-changes Brassbands Site]"
+      },
+      "date": 1513881934641
+    },
+    {
+      "type": "remove",
+      "id": "5f47e87fd7377514",
+      "date": 1513881945289
+    },
+    {
+      "type": "remove",
+      "id": "6e33694a5020678a",
+      "date": 1513881954357
+    },
+    {
+      "type": "remove",
+      "id": "b3da407abfc7ea3a",
+      "date": 1513881970356
+    },
+    {
+      "type": "remove",
+      "id": "b3c2bcbc6dc406c5",
+      "date": 1513881979053
+    },
+    {
+      "type": "edit",
+      "id": "7ca758b95f7e71fe",
+      "item": {
+        "id": "7ca758b95f7e71fe",
+        "type": "reference",
+        "site": "future.noyes.asia.wiki.org",
+        "slug": "brighouse-and-rastrick",
+        "title": "Brighouse and Rastrick",
+        "text": "\n\n"
+      },
+      "date": 1513881989975
+    },
+    {
+      "type": "remove",
+      "id": "1a4960d3cb98a6c5",
+      "date": 1513881996565
+    },
+    {
+      "type": "remove",
+      "id": "f95a5faf3588de6b",
+      "date": 1513882002801
+    },
+    {
+      "type": "remove",
+      "id": "6e77974bafa01886",
+      "date": 1513882018545
+    },
+    {
+      "type": "remove",
+      "id": "478bf523551f018d",
+      "date": 1513882026151
+    },
+    {
+      "type": "remove",
+      "id": "7ca758b95f7e71fe",
+      "date": 1513882042705
+    },
+    {
+      "type": "remove",
+      "id": "879fcaf106255ec5",
+      "date": 1513882065027
+    },
+    {
+      "type": "remove",
+      "id": "c95ad64ec7ee3f37",
+      "date": 1513882070073
+    }
+  ]
+}
