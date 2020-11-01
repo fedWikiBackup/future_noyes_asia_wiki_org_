@@ -1,0 +1,56 @@
+{
+  "title": "Black Dyke Band History",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "886d3aaad3b3debf",
+      "text": "In 1816 Peter Wharton founded a brass and reed band in the Yorkshire village of Queenshead – later to become Queensbury. John Foster, apart from being the founder of Black Dyke Mills, played French Horn in this band. It has been said on many occasions that Black Dyke was formed from it; however this is not strictly true, as “Peter Whartons band went out of existence through loss of members”. In 1833 a new band was formed named ‘Queenshead Band’, which may well have contained players from the former band. It is reported that this Band reached its Zenith from 1838 to 1843, at which time it consisted of 18 musicians”. However it is recorded in the Halifax Courier of the 15th September 1855 that:\n\n“Queenshead Band formed early in the century by residents came into difficulties. John Foster & Son, having lately become acquainted with the depressed state of the band determined to make an effort themselves to raise it up again. Accordingly they have purchased from that eminent maker, Mr. Joseph Higham, of Manchester, a new set of instruments which have this week been delivered to the band, which in future is to be denominated Black Dyke Mills Band. A new and talented leader, as well as several performers, have been added to the band which now comprises 18 musicians. Messrs. Fosters have provided for them a comfortable room in which they will meet for practising”"
+    },
+    {
+      "type": "paragraph",
+      "id": "7e2eda41f7d9748e",
+      "text": "Thus the Black Dyke Band was formed. Most of its musicians both lived in Queensbury and worked at the mill, so a close link between the band and the community was formed which remains to this day. The Band has always been at the forefront of Brass Band activity, making one of the earliest Brass Band recordings in 1904 and embarking on a five month tour of Canada and the United States in 1906, on which it played in over 200 concerts and traveled over 13,000 miles. Since then the band has toured many different countries, including Germany, Austria, Italy, Switzerland, Russia, Belgium, Sierra Leone, and Spain, returning to Canada in 1972. In 1988 the Band took part in the Bi-centennial Celebrations in Australia, they also had a sell-out tour in Japan. As well as returning to Wiesbaden in Germany to play at the Rheingau Music Festival the band have had successful concert and masterclass tours in Denmark, Northern Ireland, Norway, Sweden and Switzerland.\n\nThe Band has made over 350 recordings. Former Prime Minister Edward Heath was guest conductor on one, whilst Paul McCartney and Wings broke new ground with the Band with another. In 1996 they won The Music Industries Association Award for the Best CD in the orchestral category, with their recording of Sir William Walton’s Music, featuring the Shakespearean actor Robert Portal."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Black Dyke Band History",
+        "story": []
+      },
+      "date": 1505766295430
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "886d3aaad3b3debf",
+        "text": "In 1816 Peter Wharton founded a brass and reed band in the Yorkshire village of Queenshead – later to become Queensbury. John Foster, apart from being the founder of Black Dyke Mills, played French Horn in this band. It has been said on many occasions that Black Dyke was formed from it; however this is not strictly true, as “Peter Whartons band went out of existence through loss of members”. In 1833 a new band was formed named ‘Queenshead Band’, which may well have contained players from the former band. It is reported that this Band reached its Zenith from 1838 to 1843, at which time it consisted of 18 musicians”. However it is recorded in the Halifax Courier of the 15th September 1855 that:\n\n“Queenshead Band formed early in the century by residents came into difficulties. John Foster & Son, having lately become acquainted with the depressed state of the band determined to make an effort themselves to raise it up again. Accordingly they have purchased from that eminent maker, Mr. Joseph Higham, of Manchester, a new set of instruments which have this week been delivered to the band, which in future is to be denominated Black Dyke Mills Band. A new and talented leader, as well as several performers, have been added to the band which now comprises 18 musicians. Messrs. Fosters have provided for them a comfortable room in which they will meet for practising”"
+      },
+      "id": "886d3aaad3b3debf",
+      "date": 1505766302300
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "7e2eda41f7d9748e",
+        "text": "Thus the Black Dyke Band was formed. Most of its musicians both lived in Queensbury and worked at the mill, so a close link between the band and the community was formed which remains to this day. The Band has always been at the forefront of Brass Band activity, making one of the earliest Brass Band recordings in 1904 and embarking on a five month tour of Canada and the United States in 1906, on which it played in over 200 concerts and traveled over 13,000 miles. Since then the band has toured many different countries, including Germany, Austria, Italy, Switzerland, Russia, Belgium, Sierra Leone, and Spain, returning to Canada in 1972. In 1988 the Band took part in the Bi-centennial Celebrations in Australia, they also had a sell-out tour in Japan. As well as returning to Wiesbaden in Germany to play at the Rheingau Music Festival the band have had successful concert and masterclass tours in Denmark, Northern Ireland, Norway, Sweden and Switzerland.\n\nThe Band has made over 350 recordings. Former Prime Minister Edward Heath was guest conductor on one, whilst Paul McCartney and Wings broke new ground with the Band with another. In 1996 they won The Music Industries Association Award for the Best CD in the orchestral category, with their recording of Sir William Walton’s Music, featuring the Shakespearean actor Robert Portal."
+      },
+      "after": "886d3aaad3b3debf",
+      "id": "7e2eda41f7d9748e",
+      "date": 1505766307585
+    },
+    {
+      "type": "fork",
+      "site": "brassbands.noyes.asia.wiki.org",
+      "date": 1506390217632
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228660627
+    }
+  ]
+}
