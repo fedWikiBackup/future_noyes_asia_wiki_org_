@@ -1,0 +1,194 @@
+{
+  "title": "Journey into Freedom - Black Dyke Bank - Eric Ball",
+  "story": [
+    {
+      "type": "video",
+      "id": "cc1ea22280e3a715",
+      "text": "YOUTUBE 0ZEr-Es4mcU\nJourney into Freedom - Eric Ball\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "bedf6f1a49c53518",
+      "text": "This was the 1967 National Brass Band Championship test piece, when Black Dyke Mills Band, conducted by Geoffrey Brand won. "
+    },
+    {
+      "type": "paragraph",
+      "id": "1577f22fa3cc4287",
+      "text": "CWS Manchester Band placed second. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c0d3e0a1cb5f7ee6",
+      "text": "This is one of several recordings of this piece by the Dyke, and, in my opinion, is the most brilliant performance of them all. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8d0f1d78116af52b",
+      "text": "Not to mention it was a live performance!!! "
+    },
+    {
+      "type": "paragraph",
+      "id": "be56ca872fad6f6e",
+      "text": "This live performance was conducted by [[Major Peter Parkes]] and the principal cornet player was [[Phillip McCann]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Journey into Freedom - Black Dyke Bank - Eric Ball",
+        "story": []
+      },
+      "date": 1505137203159
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7a80eb714d918015"
+      },
+      "id": "7a80eb714d918015",
+      "type": "add",
+      "date": 1505137207346
+    },
+    {
+      "type": "remove",
+      "id": "7a80eb714d918015",
+      "date": 1505137215000
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc1ea22280e3a715"
+      },
+      "id": "cc1ea22280e3a715",
+      "type": "add",
+      "date": 1505137232080
+    },
+    {
+      "type": "edit",
+      "id": "cc1ea22280e3a715",
+      "item": {
+        "type": "video",
+        "id": "cc1ea22280e3a715",
+        "text": "YOUTUBE 0ZEr-Es4mcU\nJourney into Freedom - Eric Ball\n\nBLACK DYKE MILLS BAND. This was the 1967 National Brass Band Championship test piece, when Black Dyke Mills Band, conducted by Geoffrey Brand won. CWS Manchester Band placed second. This is one of several recordings of this piece by the Dyke, and, in my opinion, is the most brilliant performance of them all. Not to mention it was a live performance!!! This live performance was conducted by Major Peter Parkes and the principal cornet player was Phillip McCann."
+      },
+      "date": 1505137248603
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1577f22fa3cc4287"
+      },
+      "id": "1577f22fa3cc4287",
+      "type": "add",
+      "after": "cc1ea22280e3a715",
+      "date": 1505137284525
+    },
+    {
+      "type": "edit",
+      "id": "cc1ea22280e3a715",
+      "item": {
+        "type": "video",
+        "id": "cc1ea22280e3a715",
+        "text": "YOUTUBE 0ZEr-Es4mcU\nJourney into Freedom - Eric Ball\n\nBLACK DYKE MILLS BAND. This was the 1967 National Brass Band Championship test piece, when Black Dyke Mills Band, conducted by Geoffrey Brand won. "
+      },
+      "date": 1505137311372
+    },
+    {
+      "type": "edit",
+      "id": "1577f22fa3cc4287",
+      "item": {
+        "type": "paragraph",
+        "id": "1577f22fa3cc4287",
+        "text": "CWS Manchester Band placed second. "
+      },
+      "date": 1505137340144
+    },
+    {
+      "type": "add",
+      "id": "c0d3e0a1cb5f7ee6",
+      "item": {
+        "type": "paragraph",
+        "id": "c0d3e0a1cb5f7ee6",
+        "text": "This is one of several recordings of this piece by the Dyke, and, in my opinion, is the most brilliant performance of them all. "
+      },
+      "after": "1577f22fa3cc4287",
+      "date": 1505137347014
+    },
+    {
+      "type": "add",
+      "id": "8d0f1d78116af52b",
+      "item": {
+        "type": "paragraph",
+        "id": "8d0f1d78116af52b",
+        "text": "Not to mention it was a live performance!!! "
+      },
+      "after": "c0d3e0a1cb5f7ee6",
+      "date": 1505137358054
+    },
+    {
+      "type": "add",
+      "id": "be56ca872fad6f6e",
+      "item": {
+        "type": "paragraph",
+        "id": "be56ca872fad6f6e",
+        "text": "This live performance was conducted by [[Major Peter Parkes]] and the principal cornet player was [[Phillip McCann]]"
+      },
+      "after": "8d0f1d78116af52b",
+      "date": 1505137378198
+    },
+    {
+      "type": "edit",
+      "id": "cc1ea22280e3a715",
+      "item": {
+        "type": "video",
+        "id": "cc1ea22280e3a715",
+        "text": "YOUTUBE 0ZEr-Es4mcU\nJourney into Freedom - Eric Ball\n"
+      },
+      "date": 1505137412935
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bedf6f1a49c53518"
+      },
+      "id": "bedf6f1a49c53518",
+      "type": "add",
+      "after": "be56ca872fad6f6e",
+      "date": 1505137415985
+    },
+    {
+      "type": "edit",
+      "id": "bedf6f1a49c53518",
+      "item": {
+        "type": "paragraph",
+        "id": "bedf6f1a49c53518",
+        "text": "This was the 1967 National Brass Band Championship test piece, when Black Dyke Mills Band, conducted by Geoffrey Brand won. "
+      },
+      "date": 1505137450918
+    },
+    {
+      "type": "move",
+      "order": [
+        "cc1ea22280e3a715",
+        "bedf6f1a49c53518",
+        "1577f22fa3cc4287",
+        "c0d3e0a1cb5f7ee6",
+        "8d0f1d78116af52b",
+        "be56ca872fad6f6e"
+      ],
+      "id": "bedf6f1a49c53518",
+      "date": 1505137455075
+    },
+    {
+      "type": "fork",
+      "site": "brassbands.noyes.asia.wiki.org",
+      "date": 1506390906612
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228631162
+    }
+  ]
+}
