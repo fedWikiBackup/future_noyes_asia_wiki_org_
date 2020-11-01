@@ -1,0 +1,188 @@
+{
+  "title": "Eikanger-Bjørsvik",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d0a2225ce68e90ac",
+      "text": "The Eikanger-Bjørsvik band (also known as the Eikanger band) is a brass and percussion ensemble from the municipality of Lindås, Norway. "
+    },
+    {
+      "type": "paragraph",
+      "id": "997a69eef7be8051",
+      "text": "They are probably the best known brass band in Norway and have won the National brass band championships fifteen times (1981, 1985, 1987, 1988, 1991, 1993, 1999, 2001, 2005, 2008, 2009, 2011, 2012, 2013, 2014). "
+    },
+    {
+      "type": "paragraph",
+      "id": "9eca01a547422d0b",
+      "text": "In 1988 they became the first non-British band to win the European championships for brass band, an achievement they repeated in 1989. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c908c7522c35e649",
+      "text": "The Eikanger-Bjørsvik band have worked with conductors like David King, Elgar Howarth, Howard Snell, Ingar Bergby, Bjarte Engeset and Nicholas Childs.\n\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "59e223147394dc89",
+      "text": "The name is constructed from the names of two small villages along the fjord of Osterfjorden, Eikanger and Bjørsvik, which both had their own community bands. "
+    },
+    {
+      "type": "paragraph",
+      "id": "8ecb4fc026e6ff86",
+      "text": "Eikanger's, being the oldest, was founded in 1949, Bjørsvik's in 1952. In 1971, the bands merged and became a British-style brass band."
+    },
+    {
+      "type": "paragraph",
+      "id": "cc05abc5336ff6b6",
+      "text": "[https://en.wikipedia.org/wiki/Eikanger-Bj%C3%B8rsvik wikipedia]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Eikanger-Bjørsvik",
+        "story": []
+      },
+      "date": 1505765308306
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc05abc5336ff6b6"
+      },
+      "id": "cc05abc5336ff6b6",
+      "type": "add",
+      "date": 1505766431614
+    },
+    {
+      "type": "edit",
+      "id": "cc05abc5336ff6b6",
+      "item": {
+        "type": "paragraph",
+        "id": "cc05abc5336ff6b6",
+        "text": "[https://en.wikipedia.org/wiki/Eikanger-Bj%C3%B8rsvik wikipedia]"
+      },
+      "date": 1505766447166
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d0a2225ce68e90ac"
+      },
+      "id": "d0a2225ce68e90ac",
+      "type": "add",
+      "after": "cc05abc5336ff6b6",
+      "date": 1505766507466
+    },
+    {
+      "type": "edit",
+      "id": "d0a2225ce68e90ac",
+      "item": {
+        "type": "paragraph",
+        "id": "d0a2225ce68e90ac",
+        "text": "The Eikanger-Bjørsvik band (also known as the Eikanger band) is a brass and percussion ensemble from the municipality of Lindås, Norway. They are probably the best known brass band in Norway and have won the National brass band championships fifteen times (1981, 1985, 1987, 1988, 1991, 1993, 1999, 2001, 2005, 2008, 2009, 2011, 2012, 2013, 2014). In 1988 they became the first non-British band to win the European championships for brass band, an achievement they repeated in 1989. The Eikanger-Bjørsvik band have worked with conductors like David King, Elgar Howarth, Howard Snell, Ingar Bergby, Bjarte Engeset and Nicholas Childs.\n\nThe name is constructed from the names of two small villages along the fjord of Osterfjorden, Eikanger and Bjørsvik, which both had their own community bands. "
+      },
+      "date": 1505766525224
+    },
+    {
+      "type": "add",
+      "id": "8ecb4fc026e6ff86",
+      "item": {
+        "type": "paragraph",
+        "id": "8ecb4fc026e6ff86",
+        "text": "Eikanger's, being the oldest, was founded in 1949, Bjørsvik's in 1952. In 1971, the bands merged and became a British-style brass band."
+      },
+      "after": "d0a2225ce68e90ac",
+      "date": 1505766529207
+    },
+    {
+      "type": "edit",
+      "id": "d0a2225ce68e90ac",
+      "item": {
+        "type": "paragraph",
+        "id": "d0a2225ce68e90ac",
+        "text": "The Eikanger-Bjørsvik band (also known as the Eikanger band) is a brass and percussion ensemble from the municipality of Lindås, Norway. They are probably the best known brass band in Norway and have won the National brass band championships fifteen times (1981, 1985, 1987, 1988, 1991, 1993, 1999, 2001, 2005, 2008, 2009, 2011, 2012, 2013, 2014). "
+      },
+      "date": 1505766547265
+    },
+    {
+      "type": "add",
+      "id": "9eca01a547422d0b",
+      "item": {
+        "type": "paragraph",
+        "id": "9eca01a547422d0b",
+        "text": "In 1988 they became the first non-British band to win the European championships for brass band, an achievement they repeated in 1989. "
+      },
+      "after": "d0a2225ce68e90ac",
+      "date": 1505766556839
+    },
+    {
+      "type": "add",
+      "id": "c908c7522c35e649",
+      "item": {
+        "type": "paragraph",
+        "id": "c908c7522c35e649",
+        "text": "The Eikanger-Bjørsvik band have worked with conductors like David King, Elgar Howarth, Howard Snell, Ingar Bergby, Bjarte Engeset and Nicholas Childs.\n\n"
+      },
+      "after": "9eca01a547422d0b",
+      "date": 1505766566774
+    },
+    {
+      "type": "add",
+      "id": "59e223147394dc89",
+      "item": {
+        "type": "paragraph",
+        "id": "59e223147394dc89",
+        "text": "The name is constructed from the names of two small villages along the fjord of Osterfjorden, Eikanger and Bjørsvik, which both had their own community bands. "
+      },
+      "after": "c908c7522c35e649",
+      "date": 1505766568978
+    },
+    {
+      "type": "edit",
+      "id": "d0a2225ce68e90ac",
+      "item": {
+        "type": "paragraph",
+        "id": "d0a2225ce68e90ac",
+        "text": "The Eikanger-Bjørsvik band (also known as the Eikanger band) is a brass and percussion ensemble from the municipality of Lindås, Norway. "
+      },
+      "date": 1505766587270
+    },
+    {
+      "type": "add",
+      "id": "997a69eef7be8051",
+      "item": {
+        "type": "paragraph",
+        "id": "997a69eef7be8051",
+        "text": "They are probably the best known brass band in Norway and have won the National brass band championships fifteen times (1981, 1985, 1987, 1988, 1991, 1993, 1999, 2001, 2005, 2008, 2009, 2011, 2012, 2013, 2014). "
+      },
+      "after": "d0a2225ce68e90ac",
+      "date": 1505766589076
+    },
+    {
+      "type": "move",
+      "order": [
+        "d0a2225ce68e90ac",
+        "997a69eef7be8051",
+        "9eca01a547422d0b",
+        "c908c7522c35e649",
+        "59e223147394dc89",
+        "8ecb4fc026e6ff86",
+        "cc05abc5336ff6b6"
+      ],
+      "id": "cc05abc5336ff6b6",
+      "date": 1505766615002
+    },
+    {
+      "type": "fork",
+      "site": "brassbands.noyes.asia.wiki.org",
+      "date": 1506390201051
+    },
+    {
+      "type": "fork",
+      "site": "localhost:9218",
+      "date": 1508228399012
+    }
+  ]
+}
